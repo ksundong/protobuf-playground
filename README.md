@@ -6,3 +6,5 @@
 
 `go run client.go`로 클라이언트 실행
 
+[참고자료](https://learningslide.net/courses/protobuf/)
+
